@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "associacao_familia", "associacao_familia\associacao_familia.csproj", "{086DA2C5-137C-4774-A1C4-59D68C36F2A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086DA2C5-137C-4774-A1C4-59D68C36F2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086DA2C5-137C-4774-A1C4-59D68C36F2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086DA2C5-137C-4774-A1C4-59D68C36F2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086DA2C5-137C-4774-A1C4-59D68C36F2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

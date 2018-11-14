@@ -1,0 +1,11 @@
+/Users/aluno/Projects/associacao_familia/associacao_familia/bin/Debug/netcoreapp2.1/associacao_familia.deps.json
+/Users/aluno/Projects/associacao_familia/associacao_familia/bin/Debug/netcoreapp2.1/associacao_familia.runtimeconfig.json
+/Users/aluno/Projects/associacao_familia/associacao_familia/bin/Debug/netcoreapp2.1/associacao_familia.runtimeconfig.dev.json
+/Users/aluno/Projects/associacao_familia/associacao_familia/bin/Debug/netcoreapp2.1/associacao_familia.dll
+/Users/aluno/Projects/associacao_familia/associacao_familia/bin/Debug/netcoreapp2.1/associacao_familia.pdb
+/Users/aluno/Projects/associacao_familia/associacao_familia/obj/Debug/netcoreapp2.1/associacao_familia.csprojAssemblyReference.cache
+/Users/aluno/Projects/associacao_familia/associacao_familia/obj/Debug/netcoreapp2.1/associacao_familia.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/associacao_familia/associacao_familia/obj/Debug/netcoreapp2.1/associacao_familia.AssemblyInfoInputs.cache
+/Users/aluno/Projects/associacao_familia/associacao_familia/obj/Debug/netcoreapp2.1/associacao_familia.AssemblyInfo.cs
+/Users/aluno/Projects/associacao_familia/associacao_familia/obj/Debug/netcoreapp2.1/associacao_familia.dll
+/Users/aluno/Projects/associacao_familia/associacao_familia/obj/Debug/netcoreapp2.1/associacao_familia.pdb
